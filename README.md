@@ -6,7 +6,7 @@ A streamlined and simple template for a project documentation using the *relativ
 
 Sections are written in markdown or as Jupyter notebooks. This allows both code and research can be quickly written and disseminated through an auto-publishing model.
 
-This template example can be found [here](andrewmellor.co.uk/labbook).
+This template example can be found [here](https://www.andrewmellor.co.uk/labbook).
 
 ## Building
 
