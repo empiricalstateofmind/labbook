@@ -1,3 +1,5 @@
+![Logo](./book/logo.png)
+
 # LabBook
 
 A streamlined and simple template for a project documentation using the *relatively* new `jupyter-book` project.
