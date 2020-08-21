@@ -1,0 +1,13 @@
+file: index
+sections:
+- file: 01_overview/index
+  sections:
+  - file: 01_overview/01_proposal
+  - file: 01_overview/02_description
+  - file: 01_overview/03_literature
+  - file: 01_overview/04_output
+- file: 02_journal/index
+  sections:
+  - file: 02_journal/20200820
+  - file: 02_journal/20200821
+- file: 03_notebooks/index
